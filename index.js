@@ -14,7 +14,7 @@
 // Ao final deve se exibir uma mensagem:
 // "O Herói de nome {nome} está no nível de {nivel}"
 
-let heroName = null;
+let heroName = '';
 let heroExp = 50;
 
 if (heroExp <= 1000) heroName = 'Ferro';
